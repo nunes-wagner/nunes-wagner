@@ -2,7 +2,7 @@
 
 I'm a **data science enthusiast** and currently using my free time to learn more about Python programming language and machine learning applications.
 
-I regularly write articles on [https://medium.com/@alencar.g.thiago](https://medium.com/@nunes.p.wagner)
+I regularly write articles on [https://medium.com/@nunes.p.wagner](https://medium.com/@nunes.p.wagner)
 
 How to reach me **nunes.p.wagner@gmail.com**
 
